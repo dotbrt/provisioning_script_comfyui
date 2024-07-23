@@ -15,6 +15,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack",
     "https://github.com/ltdrdata/ComfyUI-Inspire-Pack",
     "https://github.com/crystian/ComfyUI-Crystools.git",
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
 
 )
 
